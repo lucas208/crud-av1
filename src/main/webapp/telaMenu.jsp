@@ -24,7 +24,12 @@
 	<a href="verDetalhes.jsp">Ver detalhes do contato</a>
 	</br>
 	<a href="excluirContato.jsp">Excluir um contato</a>
-
+	</br>
+	</br>
+	
+	<form action="logoutServlet" method="get">
+    	<input type="submit" value="Sair">
+	</form>
 </body>
 </html>
 <%
