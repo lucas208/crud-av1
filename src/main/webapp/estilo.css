@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+h1{
+	color: blueviolet;
+	margin: 20px;
+}
+
+input{
+	color: blueviolet;
+	margin-top: 5px;
+	padding: 10px;
+}
